@@ -1,6 +1,6 @@
 NexaWorks is a database for second hand vehicles.
 
-Follow to steps to install and query the database on your machine: 
+Follow these steps to install and query the database on your machine: 
 
 -  Cloneand or Download and unzip the repo locally on your machine.
 -  Open SSMS
